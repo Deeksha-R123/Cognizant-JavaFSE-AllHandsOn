@@ -1,0 +1,2 @@
+origin	https://github.com/Deeksha-R123/Cognizant-JavaFSE-AllHandsOn.git (fetch)
+origin	https://github.com/Deeksha-R123/Cognizant-JavaFSE-AllHandsOn.git (push)

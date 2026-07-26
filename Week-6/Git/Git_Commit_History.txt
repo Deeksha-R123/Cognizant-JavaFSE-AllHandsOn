@@ -1,0 +1,10 @@
+f9bd2aa Complete Spring Data JPA Hibernate employee management hands-on
+16f386f Add SonarQube hands-on build output
+4d38c2d Add SonarQube code quality Maven hands-on
+d17d8ef Add JPA Hibernate and code quality topics
+95450f4 Organize hands-on exercises into Week 1 to Week 6
+94c366e Add CI pipeline using GitHub Actions
+6ec3e64 Add Microservices mandatory exercises
+4afdb65 Add Spring Core and Spring REST projects
+3d13195 Delete pom.xml
+5f600a9 Delete .gitignore
